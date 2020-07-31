@@ -14,5 +14,7 @@ My Skills:
 1.HTML5,CSS,JavaScript & jQuery
 2.Oracle Front End Developer
 3.Excel Developer ( Forms,Inventory etc.)
-4.Graphics Desgin 
+4.Graphics Desgin(Adobe Photoshop) 
 5.Video Editing 
+6.MS OFfice  
+7.PowerPoint
