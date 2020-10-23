@@ -1,13 +1,10 @@
 # iDeveloper-Project
-This is iDeveloper's Project for portfolio.This is my bootstrap website.
+This is iDeveloper's Project.
 Developer Name MD.Shovon Hossan
 Study: I have completed B.SC in CSE.
-This is iDeveloper-Project Designed by Md.Shovon.
-I make this project
+This is iDeveloper-Project Developed by Md.Shovon.
 Mobile: 01928978604
-Email: itbd24hrs@gmail.com
-Copy right @ iDeveloper-Project.
-
+Email: itbd24hrs@gmail.com 
 
 My Skills:
 -----------
@@ -16,5 +13,6 @@ My Skills:
 3.Excel Developer ( Forms,Inventory etc.)
 4.Graphics Desgin(Adobe Photoshop) 
 5.Video Editing 
-6.MS OFfice  
-7.PowerPoint
+6.Python Programmer
+
+
